@@ -1,5 +1,7 @@
 # A-Star-Pathfinding
 
+### Project with Alamgir Khan
+
 ## Problem Description ##
 
 A maze is a network of paths and obstacles that culminate in a final destination. Traversing a maze is difficult
